@@ -1,2 +1,2 @@
 Config.ts and index.ts and index_dev.ts were places in wrong directory
-"npm run dev # run the "dev" package script" had to be used to run backend
+"npm run dev # run the "dev" package script" had to be used to run backend. This should be a simple "npm dev" command but somehow doesnt work this way
