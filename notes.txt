@@ -1,0 +1,1 @@
+Config.ts and index.ts and index_dev.ts were places in wrong directory
